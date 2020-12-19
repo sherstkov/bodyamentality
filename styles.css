@@ -4,8 +4,8 @@ body {
   padding: 0;
   width: 100%;
   height: 100vh;
-  font-family: "Neue Montreal";
-  background: #161616;
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
   overflow: hidden;
 }
 
@@ -25,15 +25,6 @@ body {
   height: 340px;
   transition: all 0.2s ease-out;
   overflow: hidden;
-}
-
-.plus-icon {
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 30px;
-  font-size: 20px;
-  color: gray;
 }
 
 .card-icon {
